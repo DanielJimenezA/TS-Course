@@ -11,5 +11,5 @@
 
     //El null check operator es una característica de TS que permite verificar si un valor es null o undefined antes de acceder a sus propiedades o métodos '?'  
 
-    //batman[10]? depende de la posición en la que es colocado el operador null check operator '?' y en el caso de este ejemplo es en la posición 10, si la posición es mayor a 10, TS marca error undefined
+    //batman[10]? depende de la posición en la que es colocado el operador null check operator '?' y en el caso de este ejemplo es en la posición 10, si la posición es mayor a 10, TS marca error undefined y podemos de mejor manera el error.
 })();
