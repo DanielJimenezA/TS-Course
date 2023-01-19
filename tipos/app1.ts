@@ -12,6 +12,7 @@
 
   // Arreglos
   const aliados: string[] = ['Mujer Maravilla', 'Acuaman', 'San', 'Flash'];
+  aliados.push('Spiderman');
 
   //Enumeraciones
   enum powerHero{
