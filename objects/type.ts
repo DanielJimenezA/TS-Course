@@ -1,20 +1,26 @@
 (() => {
-
+    //Type Heroe es de tipo personalizado y se puede usar para definir otros objetos con ese 
+    //mismo tipo
     type Heroe = {
-
-        
+        name:string,
+        age?: number,
+        powers:string[],
+        getName?:()=>string
     }
 
-    let flash: {name:string, age:number, powers:number[], getNombre?:()=> string} = {
+    let flash: Heroe = {
         name: "Barry Allen",
         age: 24,
-        powers: ["1", "2", "3"]
+        powers: ["1", "2"]
     };
     
-    let superman: {name:string, age:number, powers:string[], getNombre?:()=> string} = {
+    let superman: Heroe = {
         name: "Barry Allen",
         age: 24,
-        powers: ["Speed"]
+        powers: ["Speed"],
+        getName(){
+            return this.name;
+        }
     };
 })();
 
