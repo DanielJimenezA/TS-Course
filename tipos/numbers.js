@@ -13,3 +13,4 @@
     avengers = Number('123A'); //Esto da como resultado un NAN, que en JS es considerado un número
     console.log({ avengers });
 })();
+//# sourceMappingURL=numbers.js.map

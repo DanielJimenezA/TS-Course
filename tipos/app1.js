@@ -37,3 +37,4 @@
     console.log(largoDelPoder);
     //Haciendo el casteo de tipo any a string, podemos acceder a las propiedades de string
 })();
+//# sourceMappingURL=app1.js.map

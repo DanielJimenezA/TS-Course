@@ -13,3 +13,4 @@
     //Las llaves nos permiten ver el nombre de la propiedad y su valor en la consola
     console.log({ name });
 })();
+//# sourceMappingURL=args-required.js.map

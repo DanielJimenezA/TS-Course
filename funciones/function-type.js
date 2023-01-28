@@ -19,3 +19,4 @@
     //myFunction = greet; 
     //console.log(myFunction('Daniel'));
 })();
+//# sourceMappingURL=function-type.js.map

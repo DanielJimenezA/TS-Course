@@ -11,3 +11,4 @@
     };
     console.log(typeof myCustmVariable);
 })();
+//# sourceMappingURL=union-types.js.map

@@ -11,3 +11,4 @@
     const superman = fullName('Clark', 'Joseph', 'Kent', 'Otro argumento');
     console.log({ superman });
 })();
+//# sourceMappingURL=args-rest.js.map

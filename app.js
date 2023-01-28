@@ -26,3 +26,4 @@ function sayHello(msg) {
     const e = 19;
     console.log(a);
 })();
+//# sourceMappingURL=app.js.map

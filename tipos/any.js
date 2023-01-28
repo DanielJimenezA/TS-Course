@@ -13,3 +13,4 @@
     console.log(exists); //undefined
     console.log(power); //undefined
 })();
+//# sourceMappingURL=any.js.map

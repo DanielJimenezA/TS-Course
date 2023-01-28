@@ -11,3 +11,4 @@
     error('Auxilio!');
     console.log('Hola Mundo!');
 })();
+//# sourceMappingURL=never.js.map
