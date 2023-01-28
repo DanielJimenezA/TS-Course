@@ -16,5 +16,8 @@
         //     return this.name;
     };
     console.log(flash);
+    //Con la ayuda de sourceMap tenemos la referencia al archivo TS
 })();
 //# sourceMappingURL=objects.js.map
+//Path: objects\objects.ts es la referencia al archivo TS
+//por medio de sourceMap, en este caso, objects.js.map

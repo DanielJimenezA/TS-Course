@@ -17,6 +17,7 @@
         }
 
     console.log(flash);
+    //Con la ayuda de sourceMap tenemos la referencia al archivo TS
     
 
 })();
