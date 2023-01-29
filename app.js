@@ -13,3 +13,6 @@ function sayHello(msg) {
     console.log(a);
 })();
 //# sourceMappingURL=app.js.map
+
+//Con disableComments: true se desactivan los comentarios en el archivo .js
+//por lo que al depurar en el navegador estos no se verán.
