@@ -1,6 +1,5 @@
 "use strict";
 (() => {
-    //MyCustomVariable puede ser de tipo string, number o Heroe que es de un tipo personalizado
     let myCustmVariable = 'Namor';
     myCustmVariable = 123;
     console.log(typeof myCustmVariable);

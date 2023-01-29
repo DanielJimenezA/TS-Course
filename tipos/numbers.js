@@ -9,8 +9,7 @@
     else {
         console.log("Nos salvamos");
     }
-    //La función Number regresa un tipo número 
-    avengers = Number('123A'); //Esto da como resultado un NAN, que en JS es considerado un número
+    avengers = Number('123A');
     console.log({ avengers });
 })();
 //# sourceMappingURL=numbers.js.map
