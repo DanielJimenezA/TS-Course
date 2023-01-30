@@ -1,3 +1,4 @@
+//Este archivo main.js toma todos los archivos .ts y los convierte en un solo archivo .js
 "use strict";
 const a = 10;
 let b = 10;
