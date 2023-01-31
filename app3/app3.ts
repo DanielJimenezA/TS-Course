@@ -1,4 +1,8 @@
+(() => {
 
+    
+}
+)();
 // Objetos
 //Hacemos un tipo objeto tomando en cuenta la vaiable con más propiedades, en este caso
 // const bumblebee
