@@ -1,5 +1,6 @@
 (()=>{
 
-    console.log("let");
+    let a = "Daniel";
+    console.log(a);
     
 })()

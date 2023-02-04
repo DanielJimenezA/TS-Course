@@ -103,7 +103,7 @@
   "exclude": [
     "node_modulesIgnore"
    ],
-  // "include": [
-  //   "node_modules"
-  // ]
+  "include": [
+    "ES6"
+  ]
 }
