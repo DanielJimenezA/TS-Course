@@ -1,13 +1,8 @@
 (() => {
 
-    let a = "Daniel";
-    console.log(a);
+    const nombre: string = 'Peter';
 
-function getName() {
-    console.log('Viejo getName');
-}
-
-getName = () => {
-    console.log('Nuevo getName')};
-getName();
+    const getNombre = (): void => {
+        console.log('Viejo getNombre');
+    }
 })()
