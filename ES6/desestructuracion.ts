@@ -30,6 +30,12 @@
         console.log(ironman, resto);
 
     }
-    printAvenger(avengers);
+    
+    
+    //printAvenger(avengers);
+
+    const avengersArr:string[] = ['Thor', 'Steve Rogers', 'Tony Stark'];
+    const ironman = avengersArr[2];
+    console.log(ironman);
 
 })();
