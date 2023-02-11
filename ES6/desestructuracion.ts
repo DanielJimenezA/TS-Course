@@ -13,8 +13,11 @@
         vision: 'Paul Bettany',
         activo: true,
         poder: 1500.1215
-
+     
     }
+console.log(avengers.nick, avengers.ironman, avengers.vision, avengers.activo, avengers.poder);    
+    
+
 
     //La destructuracion es extraer las propiedades de un objeto
     //const { nick, ironman, vision, activo, poder } = avengers;
