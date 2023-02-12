@@ -15,9 +15,7 @@
         poder: 1500.1215
      
     }
-console.log(avengers.nick, avengers.ironman, avengers.vision, avengers.activo, avengers.poder);    
-    
-
+console.log(avengers.nick, avengers.ironman, avengers.vision, avengers.activo, avengers.poder);
 
     //La destructuracion es extraer las propiedades de un objeto
     //const { nick, ironman, vision, activo, poder } = avengers;
@@ -31,14 +29,12 @@ console.log(avengers.nick, avengers.ironman, avengers.vision, avengers.activo, a
     //además de mandar a llamar a las propiedades restantes del objeto Ej: resto
     const printAvenger = ({ironman, ...resto}:Avengers) => {
         console.log(ironman, resto);
-
     }
-    
     
     //printAvenger(avengers);
 
     const avengersArr:string[] = ['Thor', 'Steve Rogers', 'Tony Stark'];
-    const ironman = avengersArr[2];
+    const [ , ironman, ] = avengersArr;
     console.log(ironman);
 
 })();
