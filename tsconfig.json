@@ -104,6 +104,6 @@
     "node_modulesIgnore"
    ],
   "include": [
-    "ES6"
+    "classes"
   ]
 }
