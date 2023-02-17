@@ -1,10 +1,11 @@
-(()=>{
+(() => {
 
     class Avenger {
-        private name: string;
+        public name: string;
         public team: string;
-        realName: string;
-
-        }
+        public realName: string
     }
+    const antman: Avenger = new Avenger();
+    console.log(antman);
+
 })()
