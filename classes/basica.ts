@@ -1,7 +1,7 @@
 (() => {
 
     class Avenger {
-        public name: string;
+        private name: string;
         public team: string;
         public realName: string
     }
